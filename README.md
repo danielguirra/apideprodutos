@@ -1,7 +1,5 @@
 # Api de Produtos para EVA
 
-============================
-
 ## Sobre
 
 Este é um projeto exemplo de uma API em NodeJs ao qual é possível a criação de usuários, login, CRUD de produtos e alguns filtros
