@@ -30,20 +30,17 @@ E depois acesse no seu navegador o endereço: http://localhost:3000
 
 ## Usuários
 
-Login
+Login,
 Criação de usuários
 
 ## Produtos
 
-Listar Produtos
-Criação de Produtos
-Deletar Produto
-Upload de até 5 imagem no produto
+Listar, Criação, Produtos, Deletar, Upload de até 5 imagem no produto
 
 ## Filtros
 
 Listar por Categoria
-Listar por Preco
+, Preco e
 Criar categoria
 
 ## Autor
