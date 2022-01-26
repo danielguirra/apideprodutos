@@ -3,7 +3,7 @@ const mysql = require("mysql");
 const con = mysql.createConnection({
   host: process.env.DATABASEHOST,
   user: process.env.DATABASEUSER,
-  password: process.env.DATABASEPORT,
+  password: process.env.DATABASEPASSWORD,
 });
 
 con.connect(function (err) {
