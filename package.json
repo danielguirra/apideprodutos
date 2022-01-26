@@ -8,7 +8,8 @@
     "debug:": "nodemon server",
     "start:": "node server",
     "migrations:": "node migrations/run",
-    "fakeUsers": "node migrations/fakeUsers"
+    "fakeUsers": "node migrations/fakeUsers",
+    "fakeProducts:": "node migrations/fakeproducts"
   },
   "author": "",
   "license": "ISC",
