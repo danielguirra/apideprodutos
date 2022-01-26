@@ -2,10 +2,11 @@
   "name": "eva",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "debug:": "nodemon index",
-    "start:": "node index",
+    "build:": "node database/createDatabase",
+    "debug:": "nodemon server",
+    "start:": "node server",
     "migrations:": "node migrations/run",
     "fakeUsers": "node migrations/fakeUsers"
   },
