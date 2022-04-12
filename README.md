@@ -1,4 +1,4 @@
-# Api de Produtos para EVA
+# Api de Produtos e Usuários
 
 ## Sobre
 
